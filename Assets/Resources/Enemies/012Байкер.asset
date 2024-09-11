@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79bf65fe9c56047459a559c617892871, type: 3}
+  m_Name: "012\u0411\u0430\u0439\u043A\u0435\u0440"
+  m_EditorClassIdentifier: 
+  EnemyName: "\u0411\u0430\u0439\u043A\u0435\u0440"
+  Accessories:
+  - {fileID: 11400000, guid: 73e229e8fdb185c4b90b1b9e9e26bed1, type: 2}
+  - {fileID: 11400000, guid: 57f582063695d264090313f4b208fdad, type: 2}
+  sprite: {fileID: 21300000, guid: 33d0cc61329e6de408528f11b5ec84ca, type: 3}
+  MaxHealth: 5000000
+  Reward: 500000
+  NeedRespect: 15000
+  RespectReward: 250

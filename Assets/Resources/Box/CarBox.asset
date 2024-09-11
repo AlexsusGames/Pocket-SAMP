@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 920ee8b62635fc64da472e15dbee0746, type: 3}
+  m_Name: CarBox
+  m_EditorClassIdentifier: 
+  donateBox: 0
+  DropId: 2
+  BoxID: 41
+  cars:
+  - {fileID: 11400000, guid: 1874bc35caeacc64190fa08faaeb2310, type: 2}
+  - {fileID: 11400000, guid: c6b379646b6cbec42be22c90c8211cd9, type: 2}
+  - {fileID: 11400000, guid: 3d371983f0f53614d9674d96eaec90fd, type: 2}
+  - {fileID: 11400000, guid: 93228f26a053134499536b2445d51fbd, type: 2}
+  drop: {fileID: 11400000, guid: 6a0edc73e9ac26741993b910e1ad1203, type: 2}

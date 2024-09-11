@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7219098ed5ec0ac49a66f5ffb31f2c28, type: 3}
+  m_Name: HouseSprites
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 8d999c5f4bc8fd643a1a8cd9a126359f, type: 3}
+  - {fileID: 21300000, guid: 0c5d7de3095ae2245b3860566f08679f, type: 3}
+  - {fileID: 21300000, guid: 786c8d54a7a8dfe4c82971dbd07880bb, type: 3}
+  - {fileID: 21300000, guid: f20ed65b608c93c45888de8be921131c, type: 3}
+  - {fileID: 21300000, guid: f8b80a4d1f5dac8479d860245b723f75, type: 3}
+  - {fileID: 21300000, guid: 99f7195c55ac32b489a6f111da7e0b69, type: 3}
+  - {fileID: 21300000, guid: 775f6cffecc7f914cac80579df729797, type: 3}
+  - {fileID: 21300000, guid: 531b5faeddda69840aaab4bda9dcf6f8, type: 3}
+  - {fileID: 21300000, guid: 7ae35a0eb0fdbf349be798b4f5153d3f, type: 3}
+  - {fileID: 21300000, guid: 6765503ae97b52a46a5544d46c30c634, type: 3}
+  - {fileID: 21300000, guid: 5b107b438bde8094d801aa60bfcefc56, type: 3}
+  - {fileID: 21300000, guid: 9482f7fc436140e43a533d4da7a2153a, type: 3}
+  - {fileID: 21300000, guid: 969be89dc560b504a90f1b49a22c711f, type: 3}

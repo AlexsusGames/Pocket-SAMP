@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef2b3895a0ea5e4a86fc8cd03600c60, type: 3}
+  m_Name: BMW XM
+  m_EditorClassIdentifier: 
+  Name: BMW XM
+  Speed: 192.2
+  Acceleration: 61.68
+  SideSprite: {fileID: 21300000, guid: 5b668a4f50303494da74bc3624115ce0, type: 3}
+  TopSide: {fileID: 21300000, guid: 2478a28ade341ef409f6dc1268aa2757, type: 3}
+  Price: 1000000
+  Index: 20

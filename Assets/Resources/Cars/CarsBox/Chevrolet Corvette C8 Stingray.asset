@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef2b3895a0ea5e4a86fc8cd03600c60, type: 3}
+  m_Name: Chevrolet Corvette C8 Stingray
+  m_EditorClassIdentifier: 
+  Name: Chevrolet Corvette C8 Stingray
+  Speed: 263.27
+  Acceleration: 34.58
+  SideSprite: {fileID: 21300000, guid: ca94b7c620f14314fba86f4df511a2e6, type: 3}
+  TopSide: {fileID: 21300000, guid: 2c6c05cc4f2939047b6c41cee6edd680, type: 3}
+  Price: 1000000
+  Index: 4

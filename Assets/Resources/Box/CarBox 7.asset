@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 920ee8b62635fc64da472e15dbee0746, type: 3}
+  m_Name: CarBox 7
+  m_EditorClassIdentifier: 
+  donateBox: 1
+  DropId: 2
+  BoxID: 46
+  cars:
+  - {fileID: 11400000, guid: 1874bc35caeacc64190fa08faaeb2310, type: 2}
+  - {fileID: 11400000, guid: f26bbb78d0f5c1945af17a8984c0d860, type: 2}
+  - {fileID: 11400000, guid: 63a2a073c39dcc54b9beb6760520df31, type: 2}
+  - {fileID: 11400000, guid: 7c7588261a96c4f4da566d55b7d65fc2, type: 2}
+  - {fileID: 11400000, guid: 46dc0b8edd4f4cd419a9a904a368869b, type: 2}
+  - {fileID: 11400000, guid: dae847f024c109e4c92c953c0b174d7b, type: 2}
+  - {fileID: 11400000, guid: 3d371983f0f53614d9674d96eaec90fd, type: 2}
+  - {fileID: 11400000, guid: c6b379646b6cbec42be22c90c8211cd9, type: 2}
+  - {fileID: 11400000, guid: 6a8efacfafe345e4fbbcf8cf79304ea3, type: 2}
+  - {fileID: 11400000, guid: 8d2c77d50a766634cba62950ecac76f9, type: 2}
+  - {fileID: 11400000, guid: e464337a758e4bd4b81cfc06e7e2a29c, type: 2}
+  - {fileID: 11400000, guid: 1d9d0e6a9265ba2498a49e00a4a060f7, type: 2}
+  - {fileID: 11400000, guid: b329a7fc60eeac547b680fe96f198f0c, type: 2}
+  - {fileID: 11400000, guid: 8e3f60490db2e994bba707c33532ff1f, type: 2}
+  - {fileID: 11400000, guid: ec2c904ab6b523f4d97bea1383fcb7ad, type: 2}
+  - {fileID: 11400000, guid: 84d8118605a421e41ad89fe38b3ee479, type: 2}
+  - {fileID: 11400000, guid: 798130478caf01f4ba723f8c0655f69a, type: 2}
+  - {fileID: 11400000, guid: ed7c05a381f0dd7468b394eb28dc0ff8, type: 2}
+  - {fileID: 11400000, guid: 93228f26a053134499536b2445d51fbd, type: 2}
+  - {fileID: 11400000, guid: f6778f229dd5e3c40b40108db0d830bf, type: 2}
+  - {fileID: 11400000, guid: 10875fc673139b64b93a40d598fc0723, type: 2}
+  - {fileID: 11400000, guid: 3849a4143d3638944b433ec692865b09, type: 2}
+  drop: {fileID: 11400000, guid: bf39ab090edbe2b4a83e66da8927b349, type: 2}

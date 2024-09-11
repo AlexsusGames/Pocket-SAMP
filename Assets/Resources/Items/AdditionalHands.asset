@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9336d45d364fc04bb65873c22757cdb, type: 3}
+  m_Name: AdditionalHands
+  m_EditorClassIdentifier: 
+  Resources: 0f0000000c0000000e000000170000000900000008000000
+  ResourcesCount: 0a0000000a00000064000000020000000a0000000a000000
+  CraftChance: 2
+  ItemSprite: {fileID: 21300000, guid: 1bf459096810f804c87aaa2a6783e113, type: 3}
+  CraftItem: 28
+  WorkbenchLevel: 5

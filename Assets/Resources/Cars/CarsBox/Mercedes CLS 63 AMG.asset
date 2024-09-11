@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef2b3895a0ea5e4a86fc8cd03600c60, type: 3}
+  m_Name: Mercedes CLS 63 AMG
+  m_EditorClassIdentifier: 
+  Name: Mercedes CLS 63 AMG
+  Speed: 298
+  Acceleration: 42
+  SideSprite: {fileID: 21300000, guid: 35b80403997366b4c8b6cb01099634c6, type: 3}
+  TopSide: {fileID: 21300000, guid: ffa941e2957538b44af449c8749658ea, type: 3}
+  Price: 1000000
+  Index: 6

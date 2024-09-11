@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1716e42f2126ea1478b7afa580587835, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  WorkId: 0
+  UsualItems: 0000000001000000
+  Rareitem: 2
+  NeedHouse: 0
+  NeedSkin: 1
+  IsCanEmploy: 0
+  MinPayment: 0
+  MaxPayment: 0
+  HouseLevel: 0

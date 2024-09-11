@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 300dfbef7fcc8ab4f9e377924d0b1646, type: 3}
+  m_Name: BusinessData
+  m_EditorClassIdentifier: 
+  Index: 0
+  Name: "\u0417\u0430\u043A\u0443\u0441\u043E\u0447\u043D\u0430\u044F"
+  Profit: 1322
+  Price: 100000
+  Upgrade: 15000
+  Sprite: {fileID: 21300000, guid: 25f93eb6ae06bab4d9f250117acc0a79, type: 3}
